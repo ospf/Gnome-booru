@@ -1,0 +1,1 @@
+*booru viewer for Gnome 3, using Gtk+3 and Python 3.
